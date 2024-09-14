@@ -6,6 +6,7 @@ A repo to maintain a list of useful resources for development.
 
 ## AI
 
+- https://www.make.com/en
 - https://www.cursor.com/
 - https://www.crewai.com/
 - https://agent.ai/
