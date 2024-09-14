@@ -28,3 +28,10 @@ A repo to maintain a list of useful resources for development.
 ## Stock Photos
 - https://unsplash.com/
 - https://www.pexels.com/
+
+## Other Awesome Lists
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://github.com/mjhea0/awesome-fastapi
+- https://github.com/enaqx/awesome-react
+- https://github.com/brillout/awesome-react-components
+- https://github.com/donnemartin/awesome-aws
