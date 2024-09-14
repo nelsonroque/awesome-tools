@@ -20,6 +20,10 @@ A repo to maintain a list of useful resources for development.
 - https://www.flaticon.com/
 - https://icons8.com/
 
+# Illustrations
+- https://undraw.co/illustrations
+- https://blush.design/
+
 ## Stock Photos
 - https://unsplash.com/
 - https://www.pexels.com/
