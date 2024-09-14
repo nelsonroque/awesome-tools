@@ -5,7 +5,6 @@ A repo to maintain a list of useful resources for development.
 **_Contributors_**: @nelsonroque, @datawithyandy
 
 ## AI
-
 - https://www.make.com/en
 - https://www.cursor.com/
 - https://www.crewai.com/
@@ -21,7 +20,7 @@ A repo to maintain a list of useful resources for development.
 - https://www.flaticon.com/
 - https://icons8.com/
 
-# Illustrations
+## Illustrations
 - https://undraw.co/illustrations
 - https://blush.design/
 
